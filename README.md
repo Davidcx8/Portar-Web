@@ -23,6 +23,7 @@ Sistema de gestión para librería online con catálogo de libros, autores y for
 - PHP 7.4 o superior
 - MySQL 5.7 o superior
 - Servidor web (Apache/Nginx) o XAMPP para desarrollo local
+- Hosting y Dominio Gratuito 
 
 ## Instalación
 
@@ -126,6 +127,8 @@ Portar-Web/
 
 ## Licencia
 
+Realizado por: Jose David Castillo
+Colaborador: Rusbel Aquino Perez
 Proyecto académico - ITLA
 
 ## Créditos
