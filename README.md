@@ -128,8 +128,7 @@ Portar-Web/
 ## Licencia
 
 Realizado por: Jose David Castillo
-Colaborador: Rusbel Aquino Perez
-Proyecto académico - ITLA
+Proyecto Práctico
 
 ## Créditos
 
